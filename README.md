@@ -48,7 +48,7 @@ Simulated e-commerce sales dataset containing:
 
 ---
 
-## 📢 Author
+## 📢 
 **Likhitapudi Aravind**  
 📬 Connect on [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/aravind-likhitapudi-4b2b72237/))
 
