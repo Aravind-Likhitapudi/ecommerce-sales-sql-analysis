@@ -16,7 +16,7 @@ CREATE DATABASE ecommerce_analysis;
 
 DROP TABLE IF EXISTS ecommerce_sales;
 
-REATE TABLE ecommerce_sales
+CREATE TABLE ecommerce_sales
              (
               order_id VARCHAR(20),
 			  order_date DATE,
@@ -179,3 +179,4 @@ FROM shift_data
 GROUP BY shift;
 
 -- ✅ END OF PROJECT
+
